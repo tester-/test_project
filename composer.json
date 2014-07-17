@@ -1,0 +1,6 @@
+{
+    "name": "tester-/test_project",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
